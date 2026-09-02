@@ -51,7 +51,7 @@ AI Text Voice Analysis/
 
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/Amrutha-1606/AI_BASED TEXT AND VOICE ANALYSIS.git
 
 2. Open the project
 cd "AI Text Voice Analysis"
